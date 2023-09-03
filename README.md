@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siyasat Gubadov</h1>
 <h3 align="center">A passionate Software Engineer from Azerbaijan</h3>
 
+<a rel="me" href="https://mastodon.social/@burncode">Mastodon</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qubadoff&label=Profile%20views&color=0e75b6&style=flat" alt="qubadoff" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qubadoff" alt="qubadoff" /></a> </p>
