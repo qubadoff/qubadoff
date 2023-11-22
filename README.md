@@ -1,35 +1,21 @@
 <h1 align="center">Hi 👋, I'm Siyasat Gubadov</h1>
 <h3 align="center">A passionate Software Engineer from Azerbaijan</h3>
 
-<a rel="me" href="https://mastodon.social/@burncode">Mastodon</a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qubadoff&label=Profile%20views&color=0e75b6&style=flat" alt="qubadoff" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qubadoff" alt="qubadoff" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/melarafon" target="blank"><img src="https://img.shields.io/twitter/follow/melarafon?logo=twitter&style=for-the-badge" alt="melarafon" /></a> </p>
-
 - 🔭 I’m currently working on [Burncode](https://burncode.org)
 
 - 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://burncode.org/portfolio](https://burncode.org/portfolio)
 
-- 📝 I regularly write articles on [https://burncode.blog](https://burncode.blog)
+- 💬 Ask me about **Php, Laravel, Mysql, Apache, Nginx and Linux**
 
-- 💬 Ask me about **Php**
+- 📫 How to reach me **admin@burncode.org**
 
-- 📫 How to reach me **admin@burncode.az**
-
-- 📄 Know about my experiences [https://files.burncode.az/Siyasat_Gubadov.pdf](https://files.burncode.az/Siyasat_Gubadov.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/qubadoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="qubadoff" height="30" width="40" /></a>
-<a href="https://twitter.com/melarafon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melarafon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/qubadoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qubadoff" height="30" width="40" /></a>
-<a href="https://fb.com/by.qubadoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="by.qubadoff" height="30" width="40" /></a>
-<a href="https://instagram.com/qubadoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qubadoff" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
