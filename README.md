@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [https://burncode.org/portfolio](https://burncode.org/portfolio)
+- 👨‍💻 All of my projects are available at [https://burncode.org/az/team/siyasat-gubadov](https://burncode.org/az/team/siyasat-gubadov)
 
 - 💬 Ask me about **Php, Laravel, Mysql, Apache, Nginx and Linux**
 
