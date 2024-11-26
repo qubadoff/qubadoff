@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siyasat Gubadov</h1>
 <h3 align="center">A passionate Software Engineer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on [Burncode](https://burncode.org)
+- 🔭 I’m currently working on [Burncode](https://burncode.org) and [Obraz LLC](https://obraz.az)
 
 - 🌱 I’m currently learning **Golang**
 
